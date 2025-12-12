@@ -1,0 +1,2 @@
+# Change the line from 'apache-beam[gcp]' to a specific version
+apache-beam[gcp]==2.60.0

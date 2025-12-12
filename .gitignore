@@ -1,0 +1,11 @@
+# Python virtual environment directory
+venv/
+
+# Local credentials and sensitive files
+key.json
+
+# Data files (usually stored in GCS/S3, not Git)
+*.csv
+*.txt # You may need to specify this more carefully if other .txt files are needed
+# Better: explicitly ignore the data files you mentioned
+#customers.csv

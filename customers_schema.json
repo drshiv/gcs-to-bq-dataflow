@@ -1,0 +1,6 @@
+[
+  {"name": "customer_id", "type": "INTEGER", "mode": "REQUIRED"},
+  {"name": "customer_name", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "email", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "signup_date", "type": "DATE", "mode": "NULLABLE"}
+]
